@@ -1,8 +1,8 @@
 # A small example of the use of Python for scientific computing
 
-1. [Problem formulation](https://github.com/RozbiyNick/arch-vibrations/new/main?readme=1#problem-formulation)
-2. [Solution description](https://github.com/RozbiyNick/arch-vibrations/new/main?readme=1#solution-description)
-3. [App demonstration](https://github.com/RozbiyNick/arch-vibrations/new/main?readme=1#app-demonstration)
+1. [Problem formulation](https://github.com/RozbiyNick/arch-vibrations/tree/main#problem-formulation)
+2. [Solution description](https://github.com/RozbiyNick/arch-vibrations/new/main#solution-description)
+3. [App demonstration](https://github.com/RozbiyNick/arch-vibrations/new/main#app-demonstration)
 
 ## Problem formulation
 The task is to solve following ***differential equation in partial derivatives*** describing vibrations of an arch:
