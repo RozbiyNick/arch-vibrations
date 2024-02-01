@@ -1,6 +1,6 @@
 ![Beautiful arch oscillations](https://github.com/RozbiyNick/readme-images/blob/main/arch-vibrations/5%20beautiful%20vibration.gif)
 
-# A small example of the use of Python for scientific computing
+# Solving nonlinear partial differential equation with the Runge–Kutta fourth-order method
 
 1. [Problem formulation](https://github.com/RozbiyNick/arch-vibrations/tree/main#problem-formulation)
 2. [Solution description](https://github.com/RozbiyNick/arch-vibrations/tree/main#solution-description)
